@@ -1,7 +1,7 @@
 function Header() {
   return (
     <header>
-      <h1>Notes App</h1>
+      <h1>Notes</h1>
     </header>
   )
 }
