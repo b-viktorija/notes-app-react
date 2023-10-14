@@ -1,7 +1,12 @@
+import ListIcon from "@material-ui/icons/FormatListBulleted"
+
 function Header() {
   return (
     <header>
-      <h1>Notes app</h1>
+      <h1>
+        <ListIcon />
+        Notes app
+      </h1>
     </header>
   )
 }
