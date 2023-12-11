@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This repository contains a simple Notes App built using React. The app allows users to create, view, and manage notes. It features components like Header, Footer, Note, and Create Area. Notes are rendered from an array, and CSS3 is used for styling.
 
+![screenshot](https://github.com/b-viktorija/notes-app-react/blob/12c7e5adb71b7b1461052b9222aa63693e4a5782/screenshot-localhost_3000-2023.10.27-19_39_59.png)
+
 ## Description
 
 The React Notes App is a user-friendly tool for taking and organizing notes. It leverages the power of React to provide a dynamic and responsive note-taking experience. With components like the Header, Footer, Note, and Create Area, users can easily create and manage their notes. The app's user interface is styled using CSS3, providing an appealing and modern design.
@@ -20,7 +22,6 @@ The React Notes App is a user-friendly tool for taking and organizing notes. It 
 ## Technologies
 
 - React
-- Material-UI
 - CSS3
 
 ## Usage
